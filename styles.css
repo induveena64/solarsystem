@@ -1,0 +1,155 @@
+body{
+    background-image: url(solar.jpg);
+    width: 55;
+    height: 75px;
+    background-attachment: fixed;
+}
+#neptune{
+    height: 950px;
+    width: 95%;
+    border:1px solid white;
+    border-radius: 50%;
+    padding-left: 3%;
+    padding-top: 3%;
+    padding-bottom: 2%;
+    
+    
+}
+#neptune_pic{
+    position:absolute;
+    top: 50px;
+    right: 20%;
+    
+}
+
+#uranus{
+    height: 850px;
+    width: 95%;
+    border:1px solid white;
+    border-radius: 50%;
+    background-color: transparent;
+    padding-left: 3%;
+    padding-top: 3%;
+    padding-bottom: 2%;
+    
+    
+}
+#uranus_pic{
+    position:absolute;
+    top: 72px;
+    right: 29%; 
+}
+
+#saturn{
+    height: 700px;
+    width: 95%;
+    border:1px solid white;
+    border-radius: 50%;
+    background-color: transparent;
+    padding-left: 3%;
+    padding-top: 3%;
+    padding-bottom: 4%;
+}
+#saturn_pic{
+    position:absolute;
+    top: 107px;
+    right: 36%; 
+}
+
+#jupiter{
+    height: 600px;
+    width: 95%;
+    border:1px solid white;
+    border-radius: 50%;
+    background-color: transparent;
+    padding-left: 3%;
+    padding-top: 3%;
+    padding-bottom: 4%;
+
+}
+#jupiter_pic{
+    position:absolute;
+    top: 150px;
+    right: 45%;
+    
+}
+#Mars{
+    height: 500px;
+    width: 95%;
+    border:1px solid white;
+    border-radius: 50%;
+    background-color: transparent;
+    padding-left: 3%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+#Mars_pic{
+    position:absolute;
+    top: 200px;
+    right: 55%;
+    
+}
+
+#Earth{
+    height: 400px;
+    width: 92%;
+    border:1px solid white;
+    border-radius: 50%;
+    background-color: transparent;
+    padding-left: 3%;
+    padding-top: 3%;
+    padding-bottom: 2%;
+    
+    
+}
+#Earth_pic{
+    position:absolute;
+    top: 270px;
+    right: 64%;
+    
+}
+
+#Venus{
+    height: 300px;
+    width: 90%;
+    border:1px solid white;
+    border-radius: 50%;
+    background-color: transparent;
+    padding-left: 5%;
+    padding-top: 3%;
+    padding-bottom: 2%;
+    
+    
+}
+#Venus_pic{
+    position:absolute;
+    top: 350px;
+    right: 73%;
+    
+}
+
+
+#Mercury{
+    height: 200px;
+    width: 90%;
+    border:1px solid white;
+    border-radius: 50%;
+    background-color: transparent;
+    padding-bottom: 3%;
+    
+    
+}
+#Mercury_pic{
+    position:absolute;
+    top: 490px;
+    right: 76%;
+    
+}
+
+
+#Sun_pic{
+    position:absolute;
+    top: 440px;
+    right: 50%;
+    
+}
